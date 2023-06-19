@@ -34,21 +34,25 @@ Work experience
   * Chongqing Engineering Research Center for Remote Sensing Big Data Application, Southwest University
   * Focusing: Air pollution, remote sensing, machine learning, spatial statistics
   * Supervisor: Assoc. Prof. [Shen Jingwei]([https://profile.nus.edu.sg/fass/geowl/](http://geography.swu.edu.cn/info/1071/1690.htm)), Asst. Prof. Li Xiaolu
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Services
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* International Association of Chinese Professionals in Geographic Information Sciences, [CPGIS](https://www.cpgis.org/)
+  * Publishing daily academic information on the official Twitter and Facebook accounts of CPGIS.
+  * Interviewed past chairs of CPGIS and wrote the regarding columns for CPGIS.
+  * Assisted in organizing the 29th and 30th International Conference on Geoinformatics.
+* [GISphere](https://gisphere.info/)
+  * Operating the official WeChat media platform account with more than 15000 followers.
+  * Published 58 bi-weekly updates of GIS opportunities on WeChat with 40k+ readers.
+  * Maintaining the [GISource database](https://gisphere.info/postList?type=academic), currently collected 2000+ records of academic positions.
+  * Wrote [GISInfo guide](https://gisphere.info/uniInfo) for 400+ GIS or related programs for universities worldwide.
+
+Skills
+======
+* Languages: Chinese (Native), English (C1), German (A1), French (Studying)
+* Softwares: ArcGIS (Pro, Map), QGIS, ENVI, SPSS, Microsoft Office, Adobe
+* Programmings:
+  * Python: Geodata processing and analysis, GeoAI, Complex systems
+  * R: Statistic analysis, modeling, and visualization
+  * Google Earth Engine: Remote sensing analysis (in Javascript) 
+  * Others: SQL (Database), Net Logo (ABM), MATLAB (Mathematical modeling), HTML (Website)
