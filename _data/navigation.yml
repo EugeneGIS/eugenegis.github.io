@@ -2,13 +2,15 @@
 main:
   - title: "CV"
     url: /cv/
+
+  - title: "Teaching"
+    url: /teaching/   
     
   - title: "Publications"
     url: /publications/  
 
-  - title: "Teaching"
-    url: /teaching/    
-        
+ 
+  # In the future      
   #- title: "Posts"
   #  url: /year-archive/
     
