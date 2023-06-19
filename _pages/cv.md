@@ -18,15 +18,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Student Assistant
-  * Github University
+* 2022.08-2023.06: Research Assistant
+  * GeoSpatialX Lab (https://blog.nus.edu.sg/geospatialx/), National University of Singapore
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
+  * Supervisor: Asst.Prof.Luo Wei (https://profile.nus.edu.sg/fass/geowl/)
+* 2022.02-2023.06: Master thesis student
+  * Health geography Group (http://healthgeography.mystrikingly.com/), University of Zurich
+  * Duties included: Tagging issues
+  * Supervisor: Dr.Oliver Grübner (https://www.geo.uzh.ch/en/department/Staff/olivergruebner)
+* 2022.02-2023.06: Student Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+* 2017.11-2020.05: Student Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
 Skills
 ======
