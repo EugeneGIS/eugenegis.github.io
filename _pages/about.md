@@ -1,11 +1,8 @@
 ---
-permalink: /
+permalink: /overview/
 title: "Overview"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Currently, I will finish my master's degree with a background in Geography & GIScience soon. In 2023.08, I will start my Ph.D. study at the University of Lausanne, Switzerland.
