@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * B.Sc. in Geographic Information Science, Southwest University, 2020
+    * Double degree in Finance, 2017-2019
 * M.Sc. in Geography, Universität Bern, 2023
+    *
+    * Exchange to Universität Zürich, 2022.02-2022.08
+    * 
 * Ph.D. in Geography, Université de Lausanne, 2028 (expected)
 
 Work experience
@@ -36,9 +40,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Talks
+Services
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
