@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: cv/
+permalink: /cv/
 author_profile: true
 ---
 
@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2015: Student Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
