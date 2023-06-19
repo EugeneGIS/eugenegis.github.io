@@ -13,7 +13,7 @@ Education
     * Double degree in Finance, 2017-2019
 * M.Sc. in Geography, Universität Bern, 2023
     * Special student in Complex systems, ETH Zürich, 2021.09-2022.06
-    * Exchange student in Giscience, Universität Zürich, 2022.02-2022.08
+    * Exchange student in GIScience, Universität Zürich, 2022.02-2022.08
 * Ph.D. in Geography, Université de Lausanne, 2028 (expected)
 
 Work experience
