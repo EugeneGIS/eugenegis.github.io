@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -14,9 +14,8 @@ Education
 * B.Sc. in Geographic Information Science, Southwest University, 2020
     * Double degree in Finance, 2017-2019
 * M.Sc. in Geography, Universität Bern, 2023
-    *
-    * Exchange to Universität Zürich, 2022.02-2022.08
-    * 
+    * Special student in Complex systems, ETH Zürich, 2021.09-2022.06
+    * Exchange student in Giscience, Universität Zürich, 2022.02-2022.08
 * Ph.D. in Geography, Université de Lausanne, 2028 (expected)
 
 Work experience
