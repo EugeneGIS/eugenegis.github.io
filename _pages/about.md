@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I will finish my master's degree with a background in Geography & GIScience soon. 
+Currently, I will finish my master's degree with a background in Geography & GIScience soon. In 2023.08, I will start my Ph.D. study at the University of Lausanne, Switzerland.
 
 Benefiting from the strict and effective training in China and Switzerland, my research interests and experience include, but are not limited to:
 * **GIscience**: Spatial data science and visualization, including spatial analysis, spatial statistics, and machine learning.
