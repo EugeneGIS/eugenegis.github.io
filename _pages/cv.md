@@ -19,21 +19,21 @@ Education
 Work experience
 ======
 * 2022.08-2023.06: Research Assistant
-  * GeoSpatialX Lab (https://blog.nus.edu.sg/geospatialx/), National University of Singapore
-  * Duties included: Tagging issues
-  * Supervisor: Asst.Prof.Luo Wei (https://profile.nus.edu.sg/fass/geowl/)
+  * [GeoSpatialX Lab](https://blog.nus.edu.sg/geospatialx/), National University of Singapore
+  * Focusing: Spatial epidemiology and bioinformatics, space-time scan statistics, phylogeographic trees
+  * Supervisor: Asst. Prof. [Luo Wei](https://profile.nus.edu.sg/fass/geowl/)
 * 2022.02-2023.06: Master thesis student
-  * Health geography Group (http://healthgeography.mystrikingly.com/), University of Zurich
-  * Duties included: Tagging issues
-  * Supervisor: Dr.Oliver Grübner (https://www.geo.uzh.ch/en/department/Staff/olivergruebner)
+  * [Health geography Group](http://healthgeography.mystrikingly.com/), Universität Zürich
+  * Focusing: Environmental health, health accessibility, GIScience, spatial statistics
+  * Supervisor: Dr. [Oliver Grübner](https://www.geo.uzh.ch/en/department/Staff/olivergruebner)
 * 2022.02-2023.06: Student Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * [Land Systems and Sustainable Land Management Group](https://www.geography.unibe.ch/research/land_systems_and_sustainable_land_management_group/index_eng.html), Universität Bern
+  * Focusing: Remote sensing, Google Earth Engine, GIScience, Teaching courses
+  * Supervisor: Prof. Dr. [Chinwe Ifejika Speranza](https://www.geography.unibe.ch/about_us/staff/prof_dr_ifejika_speranza_chinwe/index_eng.html)
 * 2017.11-2020.05: Student Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Chongqing Engineering Research Center for Remote Sensing Big Data Application, Southwest University
+  * Focusing: Air pollution, remote sensing, machine learning, spatial statistics
+  * Supervisor: Assoc. Prof. [Shen Jingwei]([https://profile.nus.edu.sg/fass/geowl/](http://geography.swu.edu.cn/info/1071/1690.htm)), Asst. Prof. Li Xiaolu
   
 Skills
 ======
