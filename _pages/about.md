@@ -12,5 +12,5 @@ Benefiting from the strict and effective training in China and Switzerland, my r
 * **Urban complexity**: Complex networks, Agent-based model, urban scaling and inequality.
 * **Health geography**: Environmental health, health accessibility, and infectious diseases simulation.
 
-With the goal of bridging the gap between theories and practical applications, I am focusing on the interaction among **complex urban systems**, **health geography**, **social networks**.
+With the goal of bridging the gap between theories and practical applications, I am focusing on the intersection among **complex urban systems**, **health geography**, **social networks**.
 
