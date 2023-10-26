@@ -9,15 +9,23 @@ author_profile: true
 
 Education
 ======
-* B.Sc. in Geographic Information Science, Southwest University, 2020
-    * Double degree in Finance, 2017-2019
-* M.Sc. in Geography, Universität Bern, 2023
-    * Special student in Complex systems, ETH Zürich, 2021.09-2022.06
+* Ph.D. in Geography, Université de Lausanne, 2024.02-2028.08 (expected)
+* M.Sc. in Geography, Universität Bern, 2020.09-2023.09
     * Exchange student in GIScience, Universität Zürich, 2022.02-2022.08
-* Ph.D. in Geography, Université de Lausanne, 2028 (expected)
+    * Special student in Complex systems, ETH Zürich, 2021.09-2022.06
+* B.Sc. in Geographic Information Science, Southwest University, 2016.09-2020.06
+    * Double degree in Finance, 2017-2019
 
 Work experience
 ======
+* 2023.11-now: Student Assistant
+  * [Swiss Geocomputing Centre](https://wp.unil.ch/geocomputing/), Université de Lausanne
+  * Focusing: Website development, Preparing books, Spatial data science
+  * Supervisor: Dr. [Marj Tonini](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1048878&LanCode=8)
+* 2023.08-now: Student Assistant
+  * [CITADYNE Group](https://wp.unil.ch/citadyne-news/), Université de Lausanne
+  * Focusing: Urban complexity, health geography, spatial data science
+  * Supervisor: Prof. Dr. [Céline Rozenblat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1048878&LanCode=8)
 * 2022.08-2023.06: Research Assistant
   * [GeoSpatialX Lab](https://blog.nus.edu.sg/geospatialx/), National University of Singapore
   * Focusing: Spatial epidemiology and bioinformatics, space-time scan statistics, phylogeographic trees
@@ -33,7 +41,7 @@ Work experience
 * 2017.11-2020.05: Student Assistant
   * Chongqing Engineering Research Center for Remote Sensing Big Data Application, Southwest University
   * Focusing: Air pollution, remote sensing, machine learning, spatial statistics
-  * Supervisor: Assoc. Prof. [Shen Jingwei]([https://profile.nus.edu.sg/fass/geowl/](http://geography.swu.edu.cn/info/1071/1690.htm)), Asst. Prof. Li Xiaolu
+  * Supervisor: Assoc. Prof. [Shen Jingwei](http://geography.swu.edu.cn/info/1104/2208.htm), Asst. Prof. Li Xiaolu
 
 Services
 ======
@@ -49,10 +57,10 @@ Services
 
 Skills
 ======
-* Languages: Chinese (Native), English (C1), German (A1), French (Studying)
+* Languages: Chinese (Native), English (C1), German (A1), French (A1)
 * Softwares: ArcGIS (Pro, Map), QGIS, ENVI, SPSS, Microsoft Office, Adobe
 * Programmings:
   * Python: Geodata processing and analysis, GeoAI, Complex systems
   * R: Statistic analysis, modeling, and visualization
   * Google Earth Engine: Remote sensing analysis (in Javascript) 
-  * Others: SQL (Database), Net Logo (ABM), MATLAB (Mathematical modeling), HTML (Website)
+  * Others: SQL (Database), JavaScript & HTML (Website)
