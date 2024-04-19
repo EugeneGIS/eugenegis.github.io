@@ -21,7 +21,7 @@ Work experience
 * 2023.11-now: Student Assistant
   * [Swiss Geocomputing Centre](https://wp.unil.ch/geocomputing/), Université de Lausanne
   * Focusing: Website development, Preparing books, Spatial data science
-  * Supervisor: Dr. [Marj Tonini](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1048878&LanCode=8)
+  * Supervisor: Dr. [Marj Tonini](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1034786&menu=coord&LanCode=8)
 * 2023.08-now: Student Assistant
   * [CITADYNE Group](https://wp.unil.ch/citadyne-news/), Université de Lausanne
   * Focusing: Urban complexity, health geography, spatial data science
