@@ -60,7 +60,7 @@ Skills
 * Languages: Chinese (Native), English (C1), German (A1), French (A1)
 * Softwares: ArcGIS (Pro, Map), QGIS, ENVI, SPSS, Microsoft Office, Adobe
 * Programmings:
-  * Python: Geodata processing and analysis, GeoAI, Complex systems
+  * Python: Geodata processing and analysis, GeoAI, Complex networks
   * R: Statistic analysis, modeling, and visualization
   * Google Earth Engine: Remote sensing analysis (in Javascript) 
   * Others: SQL (Database), JavaScript & HTML (Website)
