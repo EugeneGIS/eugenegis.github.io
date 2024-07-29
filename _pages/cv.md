@@ -56,7 +56,7 @@ Services
 
 Skills
 ======
-* Languages: Chinese (Native), English (C1), German (A1), French (A1)
+* Languages: Chinese (Native), English (C1), German (A2), French (A1)
 * Softwares: ArcGIS (Pro, Map), QGIS, ENVI, SPSS, Microsoft Office, Adobe
 * Programmings:
   * Python: Geodata processing and analysis, GeoAI, Complex networks
