@@ -9,10 +9,9 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Geography, Université de Lausanne, 2024.02-2028.08 (expected)
+* Ph.D. in Geography, Université de Lausanne, 2023.08-2028.08 (expected)
 * M.Sc. in Geography, Universität Bern, 2020.09-2023.09
     * Exchange student in GIScience, Universität Zürich, 2022.02-2022.08
-    * Special student in Complex systems, ETH Zürich, 2021.09-2022.06
 * B.Sc. in Geographic Information Science, Southwest University, 2016.09-2020.06
     * Double degree in Finance, 2017-2019
 
