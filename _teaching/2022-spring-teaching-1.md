@@ -1,8 +1,8 @@
 ---
 title: " Virtual Food Sustainability Academy"
 collection: teaching
-type: "Master course"
-permalink: /teaching/2022-spring-semester-1
+type: "Master"
+permalink: /teaching/2022-spring-teaching-1
 venue: "University of Bern, Institute of Geography"
 date: 2022-06-02
 location: "Bern, Switzerland"
