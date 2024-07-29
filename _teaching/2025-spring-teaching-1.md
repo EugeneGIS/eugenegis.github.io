@@ -1,7 +1,7 @@
 ---
 title: "Advanced Geospatial Data Analysis"
 collection: teaching
-type: "Coursera MOOC"
+type: "Master"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Université de Lausanne, Institute of Earth Surface Dynamics"
 date: 2025-02-17
