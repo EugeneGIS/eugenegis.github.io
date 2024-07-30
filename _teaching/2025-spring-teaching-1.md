@@ -8,14 +8,18 @@ date: 2025-02-17
 location: "Lausanne, Switzerland"
 ---
 
-The spatial and temporal dimensions characterizing the Earth and environmental processes, together with the wealth of available data and the rapid development of analytical models, have become distinctive aspects of geospatial data analysis. This discipline encompasses data exploration, manipulation, and modeling, from the acquisition phase up to the visualization and interpretation of the results. Mapping where events are located and how they relate to each other provides a better understanding of the phenomena being studied. As an increasing volume of geo-environmental data becomes more and more accessible, the demand for experts in this field is growing rapidly, both in public research institutions and in private companies.
+The spatial and temporal dimensions characterizing the Earth and environmental processes, together with the wealth of available data and the rapid development of analytical models, have become distinctive aspects of Geospatial Data Science (GeoDS). GeoDS encompasses geospatial data manipulation, exploration, analysis, and modeling, from the acquisition phase up to the interpretation of the results. By the end of this course, students will gain a good understanding of the key practical concepts of GeoDS and finish related R programming applications, which is beneficial for mastering various algorithms to analyze complex geo-environmental spatial datasets. 
 
-By the end of this course, students will gain a good understanding of the key practical concepts and R programming applications of geospatial data analysis, and will be able to master a range of techniques enabling them to analyze complex geo-environmental spatial datasets. These include but are not limited to: 
+These include but are not limited to: 
 
-- exploratory data analyses and visualization of geographical variations in the statistical data distribution (Geographically Weighted Summary Statistics); 
+- Exploratory data analyses and visualization;
+  
+- Spatial statistics method, e.g., Geographically Weighted Regression; 
 
-- cluster detection and mapping (e.g. Ripley’s K-function, Kernel density function, DBSCAN); 
+- Cluster detection and mapping, e.g., Kernel density function, DBSCAN; 
 
-- Self-Organizing Maps (SOM) as an example of unsupervised machine learning approach to data clustering and visualization;
+- Unsupervised machine learning, e.g., Self-organizing maps;
 
-- Random Forest (RF) is an example of a supervised machine learning algorithm, applied here for classification.
+- Supervised machine learning, e.g., Random Forest;
+
+- Explainability machine learning, e.g., Geographically Random Forest.
